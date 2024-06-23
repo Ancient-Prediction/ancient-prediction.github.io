@@ -1,9 +1,9 @@
 ---
-Title: Personal Choice for Naming Database Objects
-Date: 2024-06-23 18:00:00 +0800
-Categories: [Backend, Database]
-Tags: [initial version]
-Description: My personal flavored naming conventions for database objects are presented in this post, which is definitely not a standard or perfect solution and, hopefully, I will update this post when I get more experienced in the future.
+title: Personal Choice for Naming Database Objects
+date: 2024-06-23 18:00:00 +0800
+categories: [Backend, Database]
+tags: [initial version]
+description: My personal flavored naming conventions for database objects are presented in this post, which is definitely not a standard or perfect solution and, hopefully, I will update this post when I get more experienced in the future.
 ---
 
 Naming things is hard, and it seems to be even harder when it comes to database objects since we can easily find different opinions on this on the Internet, so we have to make choice and the following is mine.
