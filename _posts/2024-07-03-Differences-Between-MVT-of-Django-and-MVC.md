@@ -48,7 +48,7 @@ To understand what MVC and what MVT is and figure out the differences between th
 
 ## References
 
-1. [FAQ: General | Django documentation | Django](https://docs.djangoproject.com/en/5.0/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names)
-2. [Models | Django documentation | Django](https://docs.djangoproject.com/en/5.0/topics/db/models/)
-3. [Overview of ASP.NET Core MVC | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-8.0)
+1. [FAQ: General - Django documentation - Django](https://docs.djangoproject.com/en/5.0/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names)
+2. [Models - Django documentation - Django](https://docs.djangoproject.com/en/5.0/topics/db/models/)
+3. [Overview of ASP.NET Core MVC - Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-8.0)
 
