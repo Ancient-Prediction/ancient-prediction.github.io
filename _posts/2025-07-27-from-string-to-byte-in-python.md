@@ -1,16 +1,10 @@
-\---
-
+---
 title: From String to Byte in Python
-
 date: 2025-07-28 00:57:00 +0800
-
 categories: [Fundamental, Python Basics]
-
 tags: [initial version]
-
 description: The relationship among String, Byte and Encoding in Python.
-
-\---
+---
 
 ![](/assets/img/from-string-to-byte-in-python-1.png)
 
